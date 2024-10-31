@@ -1,0 +1,2 @@
+2024-10-31 21:13:41.301854: Uploaded combined_market_data.csv to S3 bucket finnhub-stoct-data.
+2024-10-31 21:24:18.386776: Uploaded combined_market_data.csv to S3 bucket finnhub-stoct-data.
