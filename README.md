@@ -2,7 +2,7 @@
 
 ---
 
-## ![Real-Time Stock Data Pipeline Diagram](/structure.PNG)
+## ![Real-Time Stock Data Pipeline Diagram](/Structure.PNG)
 
 ---
 
