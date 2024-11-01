@@ -9,7 +9,7 @@ from airflow.operators.python_operator import PythonOperator
 import boto3  
 
 # Your API key
-api_key = '4d11ba8a845741b483d276956d855b07'
+api_key = '***********************'
 
 # Define the base URL for the Twelve Data API
 base_url = 'https://api.twelvedata.com'
